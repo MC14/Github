@@ -1,7 +1,7 @@
 from re import X
 
 
-class turtle_ex:
+class turtle_cl:
 
     def turtle_message(x):
         print ("I am turtle")
