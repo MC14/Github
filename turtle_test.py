@@ -1,3 +1,3 @@
 import turtle_ex
 
-wm = turtle_ex.forward(75)
+wm = turtle_ex.turtle_cl.forward(75)
