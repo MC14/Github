@@ -38,7 +38,7 @@ class Application:
         if code >= 100 and code <= 1000:
             print(type(code))
             print("Hooray")
-            the_loop == 1
+            the_loop = 1
         else:
             print("Invalid Product Code, please try again")
  
